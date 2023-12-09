@@ -1,0 +1,33 @@
+Radford City Public Schools
+Superintendence - 	Dr. Roger Collins, 	540-267-3147
+
+Elementary Schools:
+McHarg Elementary School
+Belle Heth Elementary School
+
+Middle Schools:
+Dalton Intermediate School
+
+High Schools:
+Radford High School
+
+can hardcode all of the objects instead of asking for user input
+need name of school, enrollment (can be made up, or can be researched),
+    and grade levels (from "Creating an Abstract Class")
+in main driver, create object for each level of school with the correct names
+have 3 files that extend school: elementary, middle, and high
+name of school needs to be passed from driver
+
+DO NOT: create a class for each individual school
+
+SAMPLE OUTPUT:
+                // from constants file
+                "School Name: NAME
+                Superintendent: SUPERINTENDENT
+                Phone Number: NUMBER
+
+                // from child classes
+                Elementary Schools:
+                Middle Schools:
+                High Schools:"
+
